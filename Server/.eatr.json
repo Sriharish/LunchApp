@@ -1,0 +1,18 @@
+{
+	"key": "",
+	"address": "127.0.0.1",
+	"port": ,
+	"ssl": true,
+	"dbhost": "127.0.0.1",
+	"db": "",
+	"dbsu": "",
+	"dbru": "",
+	"dbsp": "",
+	"dbrp": "",
+	"link_weight": ,
+	"history_weight": ,
+	"cuisine_weight": ,
+	"convergence_rss": ,
+	"cities": [],
+	"cuisine": []
+}
